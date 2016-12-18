@@ -16,5 +16,5 @@ int main()
 	return 0;
 }
 
-//宏函数实现交换奇数和偶数位
+//宏函数实现交换奇偶位
 //Write a macro to exchange a number of odd bits and even bits.
